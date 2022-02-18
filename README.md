@@ -1,5 +1,7 @@
 ### Hi there 👋
 # Coke777
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CokeLee777&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CokeLee777&layout=compact&theme=dracula)
 ## Student
 * Student in Kyonggi University and majored in Electronic Engineering
 ## Interest
