@@ -11,7 +11,11 @@
 
 <h3 align="center">☘️ Interest ☘️</h3>
 <p align="center">
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img alt="Spring JPA" src ="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img alt="Spring MVC" src ="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 </p>
 
 <h3 align="center">☘️ Tech Stack ☘️</h3>
@@ -29,10 +33,20 @@
   
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img alt="Spring JPA" src ="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img alt="Spring MVC" src ="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+</p>
+
+<h3 align="center">☘️ Tools ☘️</h3>
+<p align="center">
+  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+  <img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white">
+  <img alt="Sourcetree" src ="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white">
+  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
+  <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white">
 </p>
 
