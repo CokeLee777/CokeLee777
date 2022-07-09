@@ -14,8 +14,8 @@
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 </p>
 
 <h3 align="center">☘️ Tech Stack ☘️</h3>
