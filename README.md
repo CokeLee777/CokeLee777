@@ -11,11 +11,14 @@
 
 <h3 align="center">☘️ Interest ☘️</h3>
 <p align="center">
-  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&&logo=Spring&logoColor=white">
+  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=Spring Boot&logoColor=white">
+  <img alt="Apache Kafka" src ="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&&logo=Apache Kafka&logoColor=white">
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&&logo=JavaScript&logoColor=white">
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&&logo=Node.js&logoColor=white">
+  <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&&logo=Swift&logoColor=white">
+  
 </p>
 
 <h3 align="center">☘️ Tech Stack ☘️</h3>
@@ -34,7 +37,10 @@
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+  <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </p>
@@ -47,6 +53,7 @@
   <img alt="Sourcetree" src ="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white">
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
+  <img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white">
 </p>
 
