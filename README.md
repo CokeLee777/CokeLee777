@@ -11,11 +11,10 @@
 
 <h3 align="center">☘️ Interest ☘️</h3>
 <p align="center">
-  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&&logo=Spring&logoColor=white">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=Spring Boot&logoColor=white">
-  <img alt="Apache Kafka" src ="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&&logo=Apache Kafka&logoColor=white">
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&&logo=JavaScript&logoColor=white">
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&&logo=Docker&logoColor=white">
+  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&&logo=Node.js&logoColor=white">
   <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&&logo=Swift&logoColor=white">
   
