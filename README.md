@@ -16,7 +16,6 @@
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&&logo=Docker&logoColor=white">
   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&&logo=Node.js&logoColor=white">
-  <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&&logo=Swift&logoColor=white">
   
 </p>
 
