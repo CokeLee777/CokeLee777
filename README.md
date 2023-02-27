@@ -11,11 +11,12 @@
 
 <h3 align="center">☘️ Interest ☘️</h3>
 <p align="center">
+  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&&logo=Spring&logoColor=white">
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=Spring Boot&logoColor=white">
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&&logo=Docker&logoColor=white">
   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">
-  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&&logo=Node.js&logoColor=white">
+  <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=Amazon AWS&logoColor=white">
   
 </p>
 
