@@ -38,7 +38,7 @@
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 ### 🏄‍♂️ Interest
-  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&&logo=Flutter&logoColor=white">
+  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=Amazon AWS&logoColor=white">
 
 </p>
 
