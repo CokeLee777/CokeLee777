@@ -19,7 +19,7 @@
 <br>
 
 - A passionate Back-end developer
-- Study Computer Science at spare time
+- Study [Computer Science and organize what I have learned](https://github.com/CokeLee777/engineering-wiki) at spare time
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is my [resume](https://docs.google.com/document/d/e/2PACX-1vRuFuj_8eZq7-WceqOaio1hBu7vtmVCKKwFQhznNnOo3_95boa4R0ilAJD38OUEOCD1xcF6SBqKpbcj/pub) and [portfolio](https://jjams.notion.site)
 
