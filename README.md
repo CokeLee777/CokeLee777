@@ -21,7 +21,7 @@
 - A passionate Back-end developer
 - Study Computer Science at spare time
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my portfolio](https://jjams.notion.site)
+- I’m currently open for an Intern or a new job opportunity, this is [resume](https://docs.google.com/document/d/e/2PACX-1vRuFuj_8eZq7-WceqOaio1hBu7vtmVCKKwFQhznNnOo3_95boa4R0ilAJD38OUEOCD1xcF6SBqKpbcj/pub) and [my portfolio](https://jjams.notion.site)
 
 <br><br>
 
