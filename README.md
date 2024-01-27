@@ -33,8 +33,8 @@
 
 ### 📌 Main Stack
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></br>
-  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=Spring Boot&logoColor=white"></br>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=Amazon AWS&logoColor=white">&nbsp;<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"></br>
+  <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">&nbsp;<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=Spring Boot&logoColor=white"></br>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=Amazon AWS&logoColor=white">&nbsp;<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"></br>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 ### 🏄‍♂️ Interest
