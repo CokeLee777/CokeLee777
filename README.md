@@ -21,7 +21,6 @@
 - A passionate Software developer
 - Study [Computer Science and organize what I have learned](https://github.com/CokeLee777/engineering-wiki) at spare time
 - Currently learning Web Development by Self
-- This is my [Resume](https://docs.google.com/document/d/e/2PACX-1vRuFuj_8eZq7-WceqOaio1hBu7vtmVCKKwFQhznNnOo3_95boa4R0ilAJD38OUEOCD1xcF6SBqKpbcj/pub)
 
 <br><br>
 
