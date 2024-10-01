@@ -7,7 +7,7 @@
 <h1 align="center"><b>Hi , I'm Chae Min </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Love+to+Learn+new+tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Love+to+Learn+new+tech" alt="Typing SVG" /></a>
 </p>
 	
 ## <picture><img src = "./assets/images/about_me.gif" width = 50px></picture> **About me**
@@ -18,7 +18,7 @@
 
 <br>
 
-- A passionate Software developer
+- A passionate Software Engineer
 - Study [Computer Science and organize what I have learned](https://github.com/CokeLee777/engineering-wiki) at spare time
 - Currently learning Web Development by Self
 - This is my [Portfolio](https://cokelee777.vercel.app)
