@@ -43,7 +43,7 @@
 ### 🎖️ Certification
 
 
-[![Credly Badge](https://images.credly.com/size/25x25/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)]([https://www.credly.com/users/your-profile](https://www.credly.com/badges/937c9ec2-6acd-4697-87e4-26e7bba09981/public_url))&nbsp;<img alt="AWS Certified Devloper Associate" src ="https://img.shields.io/badge/AWS Certified Devloper Associate-232F3E?style=for-the-badge&&logo=AWS Certified Devloper Associate&logoColor=white">
+[![Credly Badge](https://images.credly.com/size/25x25/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)]([https://www.credly.com/users/your-profile](https://www.credly.com/badges/937c9ec2-6acd-4697-87e4-26e7bba09981/public_url))&nbsp;<img alt="AWS Certified Developer Associate" src ="https://img.shields.io/badge/AWS Certified Developer Associate-232F3E?style=for-the-badge&&logo=AWS Certified Developer Associate&logoColor=white">
 </br>
 [![Credly Badge](https://images.credly.com/size/25x25/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)]([https://www.credly.com/users/your-profile](https://www.credly.com/badges/937c9ec2-6acd-4697-87e4-26e7bba09981/public_url))&nbsp;<img alt="Certified Kubernetes Administrator" src ="https://img.shields.io/badge/Certified Kubernetes Administrator-326CE5?style=for-the-badge&&logo=Certified Kubernetes Administrator(CKA)&logoColor=white">
 
