@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCokeLee777&count_bg=%23EDDC07&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/CokeLee777)
-
-</div>
-
 <h1 align="center"><b>Hi , I'm Chae Min </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -32,13 +26,13 @@
 <p align="center">
 
 ### 📌 Main Stack
-  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></br>
-  <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">&nbsp;<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=Spring Boot&logoColor=white">&nbsp;<img alt="Apache Kafka" src ="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&&logo=Apache Kafka&logoColor=white"></br>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=Amazon AWS&logoColor=white">&nbsp;<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"></br>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></br>
+  <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">&nbsp;<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&&logo=springboot&logoColor=white">&nbsp;<img alt="Apache Kafka" src ="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&&logo=apachekafka&logoColor=white"></br>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;<img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=amazonwebservices&logoColor=white">&nbsp;<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></br>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;<img alt="Redis" src ="https://img.shields.io/badge/REDIS-FF4438?style=for-the-badge&logo=REDIS&logoColor=white"></br><img alt="Cisco Network" src ="https://img.shields.io/badge/Cisco Network-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
 
 ### 🏄‍♂️ Interest
-  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=Amazon AWS&logoColor=white">
+  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&&logo=Kubernetes&logoColor=white">&nbsp;<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&&logo=amazonwebservices&logoColor=white">
 
 </p>
 
