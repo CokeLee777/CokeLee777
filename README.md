@@ -12,10 +12,25 @@
 
 <br>
 
-- A passionate Software Engineer
-- Study [Computer Science and organize what I have learned](https://github.com/CokeLee777/engineering-wiki) at spare time
-- Currently learning Web Development by Self
-- This is my [Portfolio](https://cokelee777.vercel.app)
+✨ **Introduce**
+
+> - 기본을 지키며 안정적이고 탄탄한 개발을 추구합니다.
+> - 꾸준한 학습과 개선으로 지속적인 성장을 이어갑니다.
+> - 어려운 문제에도 끈기 있게 도전하며 최적의 해법을 찾아냅니다.
+
+</br>
+
+📚 **Work experience**
+> - 롯데쇼핑(주)e커머스사업본부 | Software Engineer | 24.02.19 - 재직중
+> - 롯데쇼핑(주)e커머스사업본부 | Software Engineer Trainee | 23.08.01 - 24.01.31
+
+</br>
+
+🎓 **Certificate**
+> - **Cisco Certified Network Associate(CCNA)** | Cisco Systems (USA) PTE.LTD | 25.03 - 28.03
+> - **Certified Kubernetes Administrator(CKA)** | Cloud Native Computing Foundation | 24.09 - 27.09
+> - **AWS Certified Developer Associate(CDA)** | Amazon Web Services(AWS) | 24.08 - 27.08
+> - **정보처리기사** | 한국산업인력공단 | 21.11
 
 <br><br>
 
