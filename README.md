@@ -27,8 +27,9 @@
 </br>
 
 🎓 **Certificate**
+> - **AWS Certified AI Practitioner(ALF)** | Amazon Web Services(AWS) | 25.07 - 28.07
 > - **Cisco Certified Network Associate(CCNA)** | Cisco Systems (USA) PTE.LTD | 25.03 - 28.03
-> - **Certified Kubernetes Administrator(CKA)** | Cloud Native Computing Foundation | 24.09 - 27.09
+> - **Certified Kubernetes Administrator(CKA)** | Cloud Native Computing Foundation | 24.09 - 26.09
 > - **AWS Certified Developer Associate(CDA)** | Amazon Web Services(AWS) | 24.08 - 27.08
 > - **정보처리기사** | 한국산업인력공단 | 21.11
 
