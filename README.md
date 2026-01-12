@@ -33,6 +33,11 @@
 > - **AWS Certified Developer Associate(CDA)** | Amazon Web Services(AWS) | 24.08 - 27.08
 > - **정보처리기사** | 한국산업인력공단 | 21.11
 
+</br>
+
+📚 **Other experience**
+> - SIPE | 개발자들이 함께 공유하며 성장하는 IT 커뮤니티 | 25.04 - 25.08
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
