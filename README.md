@@ -8,7 +8,7 @@
 
 🛠️ **Skills**
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,mysql,redis,docker,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,mysql,redis,aws,docker,kubernetes)
 
 </br>
 
