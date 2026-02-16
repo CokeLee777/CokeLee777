@@ -35,5 +35,7 @@
 
 🧩 **Other experience**
 > - SIPE 4th | IT Community for Developers to Share and Grow Together | 25.04 - 25.08
-> - ChatGPT MS Azurethon | Hackerthon | 23.04.18 - 23.04.24
-> - 9oormthon in JEJU 4th | Hackerthon | 22.12.13 - 22.12.16
+> - Hollang & Weeks52 | Joint Service Development (Industry Partnership with Weeks52) | 23.04.26 - 23.10.31
+> - ChatGPT MS Azurethon | Hackathon Participant | 23.04.18 - 23.04.24
+> - SWYG 5th | Cross-Functional Side Project Community | 23.01.19 - 23.03.12
+> - 9oormthon in JEJU 4th | Hackathon Participant | 22.12.13 - 22.12.16
