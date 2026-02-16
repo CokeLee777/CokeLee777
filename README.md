@@ -39,3 +39,11 @@
 > - ChatGPT MS Azurethon | Hackathon Participant | 23.04.18 - 23.04.24
 > - SWYG 5th | Cross-Functional Side Project Community | 23.01.19 - 23.03.12
 > - 9oormthon in JEJU 4th | Hackathon Participant | 22.12.13 - 22.12.16
+
+---
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CokeLee777/CokeLee777/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CokeLee777/CokeLee777/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CokeLee777/CokeLee777/output/pacman-contribution-graph.svg">
+</picture>
