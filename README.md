@@ -29,7 +29,8 @@
 
 🔓 **Open Source**
 
-> - [CokeLee777/kafka-connect-claim-check-smt](https://github.com/CokeLee777/kafka-connect-claim-check-smt) | Maintainer
+> - [CokeLee777/kafka-connect-claim-check-smt](https://github.com/CokeLee777/kafka-connect-claim-check-smt) | 
+> - [a2aproject/a2a-java](https://github.com/a2aproject/a2a-java) | Contributor
 
 </br>
 
