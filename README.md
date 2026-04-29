@@ -21,6 +21,7 @@
 🔓 **Open Source**
 
 > - [CokeLee777/kafka-connect-claim-check-smt](https://github.com/CokeLee777/kafka-connect-claim-check-smt) | Maintainer
+> - [CokeLee777/spring-ai-a2a](https://github.com/CokeLee777/spring-ai-a2a) | Maintainer
 > - [a2aproject/a2a-java](https://github.com/a2aproject/a2a-java) | Contributor
 > - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | Contributor
 
